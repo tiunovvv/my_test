@@ -1,3 +1,3 @@
-module my_test
+module test
 
 go 1.19
